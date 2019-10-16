@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="scanner_overlay">240dp</dimen>
+    <dimen name="stroke">10dp</dimen>
+    <dimen name="overlay_frame_size">@dimen/scanner_overlay</dimen>
+    <dimen name="overlay_frame_radius">30dp</dimen>
+    <dimen name="overlay_frame_padding">50dp</dimen>
+</resources>
